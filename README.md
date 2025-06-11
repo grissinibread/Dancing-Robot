@@ -5,15 +5,11 @@ An expressive robot that dances and shows emotion through animated LED facial ex
 This project aims to bring emotion and motion together in a fun and educational robotics build. The Dancing Robot moves around and uses 8x8 LED matrices to simulate expressive eyes and a mouth, reacting with preprogrammed behaviors like happy, mad, sad, and love.
 
 # 💡 Features
-🟢 Animated facial expressions using LED matrices
-
-🛞 Responsive wheeled motion via motor control
-
-🔌 Serial and SPI communication
-
-🛠️ Fully soldered and assembled hardware prototype
-
-🎭 Emotion-based behaviors programmed in C
+- 🟢 Animated facial expressions using LED matrices
+- 🛞 Responsive wheeled motion via motor control
+- 🔌 Serial and SPI communication
+- 🛠️ Fully soldered and assembled hardware prototype
+- 🎭 Emotion-based behaviors programmed in C
 
 # 🧰 Technologies & Tools
 STM32 Nucleo-F401RE Board
