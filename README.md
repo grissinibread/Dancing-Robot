@@ -12,41 +12,27 @@ This project aims to bring emotion and motion together in a fun and educational 
 - 🎭 Emotion-based behaviors programmed in C
 
 # 🧰 Technologies & Tools
-STM32 Nucleo-F401RE Board
-
-C programming
-
-Mbed OS
-
-SPI & Serial Communication
-
-8x8 LED Matrices
-
-L293D Motor Driver
-
-Soldering + Circuit Diagrams
+- STM32 Nucleo-F401RE Board
+- C programming
+- Mbed OS
+- SPI & Serial Communication
+- 8x8 LED Matrices
+- L293D Motor Driver
+- Soldering + Circuit Diagrams
 
 # 🧱 Components
-STM32 Nucleo Board
-
-L293D Motor Driver
-
-8x8 LED Matrices (Eyes & Mouth)
-
-Rubber Wheels
-
-12V 3000mAh Battery
-
-Breadboard, jumper wires, cardboard, fur, and other craft materials
+- STM32 Nucleo Board
+- L293D Motor Driver
+- 8x8 LED Matrices (Eyes & Mouth)
+- Rubber Wheels
+- 12V 3000mAh Battery
+- Breadboard, jumper wires, cardboard, fur, and other craft materials
 
 # 🚧 Challenges
-Daisy-chaining and controlling LED matrices simultaneously
-
-Power source stability and motor wiring
-
-Soldering and constructing hardware with limited prototyping tools
-
-Wheel mounting and physical mobility issues
+- Daisy-chaining and controlling LED matrices simultaneously
+- Power source stability and motor wiring
+- Soldering and constructing hardware with limited prototyping tools
+- Wheel mounting and physical mobility issues
 
 # 👥 Team Contributions
 Alejandro Navarro: Motor control logic, final integration, soldering
